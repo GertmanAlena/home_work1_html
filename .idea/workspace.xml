@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05e77ac8-7126-48c5-9b04-93ad89c25b59" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog/catalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/catalog/catalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +49,24 @@
       <workItem from="1693076662212" duration="30000" />
       <workItem from="1693078136841" duration="2052000" />
       <workItem from="1693335310112" duration="95000" />
-      <workItem from="1693421432072" duration="2141000" />
+      <workItem from="1693421432072" duration="2444000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Вторая домашняя готова&quot;">
+      <created>1693424325622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693424325622</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Вторая домашняя готова&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Вторая домашняя готова&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
