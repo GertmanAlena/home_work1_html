@@ -1,2 +1,2 @@
-![Главная](screen/home.png)
-![Каталог](screen/catalog.png)
+![home_img](screen/home.png)
+![catalog_img](screen/catalog.png)
